@@ -1,0 +1,26 @@
+{
+	"name": "fCC-Request-Header-Parser-Microservice-Project",
+	"version": "0.0.1",
+	"description": "Project challenge for freeCodeCamp's APIs and Microservices Certification",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"cors": "^2.8.1",
+		"dotenv": "^8.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/allemandi/fCC-Request-Header-Parser-Microservice-Project.git"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express",
+		"header",
+		"ipaddress"
+	],
+	"license": "MIT"
+}
